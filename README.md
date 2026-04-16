@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rob 👋</h1>
+<p align="center">
+  <strong>Building reliable, user-focused software.</strong><br/>
+  This GitHub profile is my primary professional hub.
+</p>
 
-<!--
-**RobFaie/RobFaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:your-email@domain.com">Email</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin-handle/">LinkedIn</a> •
+  <a href="https://github.com/RobFaie">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I’m a software professional focused on shipping practical solutions with clean architecture, thoughtful DX, and measurable business impact.
+
+- 💼 Open to: Full-time roles, consulting, and technical collaborations
+- 🧠 Core strengths: Product engineering, system design, and maintainable codebases
+- ⚙️ Current focus: Delivering production-ready features with high quality and speed
+
+## What I Work With
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frontend:** React, Next.js, HTML/CSS
+- **Backend:** Node.js, APIs, data integrations
+- **Cloud & DevOps:** GitHub Actions, CI/CD, Docker, cloud platforms
+
+## Featured Work
+> Replace these with your strongest, most relevant repositories.
+
+- **[Project Name](https://github.com/RobFaie/project-one)** — One-line summary of the business or user impact.
+- **[Project Name](https://github.com/RobFaie/project-two)** — One-line summary of your technical contribution.
+- **[Project Name](https://github.com/RobFaie/project-three)** — One-line summary of outcome, scale, or performance gains.
+
+## Professional Highlights
+- Shipped production features end-to-end from planning to release
+- Improved developer workflows through automation and clearer standards
+- Collaborated cross-functionally with product, design, and stakeholders
+
+## How I Work
+- Clear communication and ownership
+- Pragmatic technical decisions
+- Long-term maintainability over short-term hacks
+
+## Contact
+If you’re hiring, building, or exploring a collaboration, I’d love to connect.
+
+📫 **Best way to reach me:** [your-email@domain.com](mailto:your-email@domain.com)
