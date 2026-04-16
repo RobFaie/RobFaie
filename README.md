@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Rob 👋</h1>
 <p align="center">
   <strong>Building reliable, user-focused software.</strong><br/>
-  This GitHub profile is my primary professional hub.
-</p>
-
-<p align="center">
-  <a href="mailto:your-email@domain.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">LinkedIn</a> •
-  <a href="https://github.com/RobFaie">GitHub</a>
 </p>
 
 ---
@@ -24,13 +17,6 @@ I’m a software professional focused on shipping practical solutions with clean
 - **Frontend:** React, Next.js, HTML/CSS
 - **Backend:** Node.js, APIs, data integrations
 - **Cloud & DevOps:** GitHub Actions, CI/CD, Docker, cloud platforms
-
-## Featured Work
-> Replace these with your strongest, most relevant repositories.
-
-- **[Project Name](https://github.com/RobFaie/project-one)** — One-line summary of the business or user impact.
-- **[Project Name](https://github.com/RobFaie/project-two)** — One-line summary of your technical contribution.
-- **[Project Name](https://github.com/RobFaie/project-three)** — One-line summary of outcome, scale, or performance gains.
 
 ## Professional Highlights
 - Shipped production features end-to-end from planning to release
