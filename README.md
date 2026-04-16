@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rob 👋</h1>
 <p align="center">
-  <strong>Building reliable, user-focused software.</strong><br/>
+  <strong>Helping people get the most out of the systems they use.</strong><br/>
 </p>
 
 ---
 
-I’m a software professional focused on shipping practical solutions with clean architecture, thoughtful DX, and measurable business impact.
+I’m a IT professional that does things.
 
 - 💼 Open to: Full-time roles, consulting, and technical collaborations
 - 🧠 Core strengths: Diving into the unknow, working under pressure, and the big picture
@@ -16,7 +16,6 @@ I’m a software professional focused on shipping practical solutions with clean
 - **Microsoft 365:** Defender XDR, SharePoint, Power Platform
 - **Entra:** Conditional Access, Intune, SCIM, SAML, OIDC
 - **Azure:** Azure Automation, PostgreSQL, Sentinel
-- **Cloud & DevOps:** GitHub Actions, CI/CD, Docker, cloud platforms
 
 <!--
 ## Professional Highlights
