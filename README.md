@@ -11,7 +11,7 @@ I’m a software professional focused on shipping practical solutions with clean
 - 🧠 Core strengths: Product engineering, system design, and maintainable codebases
 - ⚙️ Current focus: Delivering production-ready features with high quality and speed
 
-### What I Work With
+## What I Work With
 - **Languages:** TypeScript, JavaScript, Python, SQL
 - **Frontend:** React, Next.js, HTML/CSS
 - **Backend:** Node.js, APIs, data integrations
