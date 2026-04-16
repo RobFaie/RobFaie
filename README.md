@@ -5,7 +5,6 @@
 
 ---
 
-## About
 I’m a software professional focused on shipping practical solutions with clean architecture, thoughtful DX, and measurable business impact.
 
 - 💼 Open to: Full-time roles, consulting, and technical collaborations
