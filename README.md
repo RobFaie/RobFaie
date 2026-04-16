@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:you@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
+  <a href="mailto:your-email@domain.com">Email</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin-handle/">LinkedIn</a> •
   <a href="https://github.com/RobFaie">GitHub</a>
 </p>
 
@@ -28,9 +28,9 @@ I’m a software professional focused on shipping practical solutions with clean
 ## Featured Work
 > Replace these with your strongest, most relevant repositories.
 
-- **[Project Name](https://github.com/RobFaie/your-project)** — One-line summary of the business or user impact.
-- **[Project Name](https://github.com/RobFaie/your-project)** — One-line summary of your technical contribution.
-- **[Project Name](https://github.com/RobFaie/your-project)** — One-line summary of outcome, scale, or performance gains.
+- **[Project Name](https://github.com/RobFaie/project-one)** — One-line summary of the business or user impact.
+- **[Project Name](https://github.com/RobFaie/project-two)** — One-line summary of your technical contribution.
+- **[Project Name](https://github.com/RobFaie/project-three)** — One-line summary of outcome, scale, or performance gains.
 
 ## Professional Highlights
 - Shipped production features end-to-end from planning to release
@@ -45,4 +45,4 @@ I’m a software professional focused on shipping practical solutions with clean
 ## Contact
 If you’re hiring, building, or exploring a collaboration, I’d love to connect.
 
-📫 **Best way to reach me:** [you@example.com](mailto:you@example.com)
+📫 **Best way to reach me:** [your-email@domain.com](mailto:your-email@domain.com)
